@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Konsollee
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Добрый день, всё круто ))) P.S Нурисламов П.Д.");
+        }
+    }
+}
